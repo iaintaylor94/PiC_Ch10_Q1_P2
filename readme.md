@@ -8,4 +8,4 @@ You may wish to run the program and compare its output.
 
 
 [^1]: Programming in C (Third edition) By Stephen G. Kochan - Page 230 : Q1
-[^2]: Programming in C (Third edition) By Stephen G. Kochan - Page 199 
+[^2]: Programming in C (Third edition) By Stephen G. Kochan - Page 1
